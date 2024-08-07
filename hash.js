@@ -1,5 +1,5 @@
 /* 
-Why Hash?
+Why Hashhh?
 
 Useful for storing user data without knowing true value (e.g. saving user pwd).
 Takes an input value of any length and outputs a fixed length value.
